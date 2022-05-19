@@ -5,3 +5,9 @@
 ```
 git commit --amend -m "New commit message."
 ```
+
+## How to Delete Branch?
+
+```
+git branch -d branchname
+```
